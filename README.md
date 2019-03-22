@@ -26,7 +26,8 @@ Before being open sourced in February 2014, Godot had been developed by Juan
 Linietsky and Ariel Manzur (both still maintaining the project) for several
 years as an in-house engine, used to publish several work-for-hire titles.
 
-![Screenshot of a 3D scene in Godot Engine](https://download.tuxfamily.org/godotengine/media/screenshots/editor_3d_fracteed.jpg)
+![Screenshot of a 3D scene in Godot Engine](https://user-images.githubusercontent.com/21297356/54830382-67a97c00-4c86-11e9-8e35-dd2d2ee51a7a.png)
+
 
 ### Getting the engine
 
